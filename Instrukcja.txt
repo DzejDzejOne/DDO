@@ -1,0 +1,4 @@
+Nadaj prawa wykonania dla pliku:
+chmod +x install.sh
+Następnie uruchom:
+./install.sh
